@@ -1,0 +1,5 @@
+c:\users\rachel\documents\visual studio 2013\Projects\TDDHOMEWORD2\TDDHOMEWORD2\bin\Debug\TDDHOMEWORD2.dll
+c:\users\rachel\documents\visual studio 2013\Projects\TDDHOMEWORD2\TDDHOMEWORD2\bin\Debug\TDDHOMEWORD2.pdb
+c:\users\rachel\documents\visual studio 2013\Projects\TDDHOMEWORD2\TDDHOMEWORD2\obj\Debug\TDDHOMEWORD2.csprojResolveAssemblyReference.cache
+c:\users\rachel\documents\visual studio 2013\Projects\TDDHOMEWORD2\TDDHOMEWORD2\obj\Debug\TDDHOMEWORD2.dll
+c:\users\rachel\documents\visual studio 2013\Projects\TDDHOMEWORD2\TDDHOMEWORD2\obj\Debug\TDDHOMEWORD2.pdb
