@@ -8,6 +8,7 @@ namespace TDDHOMEWORD2
         public double Accounting(List<Book> booklist)
         {  
             double sum = 0;
+            sum = booklist.Sum(x => x.Quantity * x.price);
             return sum;
         }
     }
@@ -17,5 +18,7 @@ namespace TDDHOMEWORD2
         public int Id { get; set; }
 
         public int Quantity { get; set; }
+
+        public int price { get; set; }
     }
 }
