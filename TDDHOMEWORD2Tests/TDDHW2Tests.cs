@@ -11,11 +11,11 @@ namespace TDDHOMEWORD2.Tests
         {  
             //arrange
             List<Book> book = new List<Book>() {
-            new Book{Id=1,Quantity = 1},
-            new Book{Id=2,Quantity = 0},
-            new Book{Id=3,Quantity = 0},
-            new Book{Id=4,Quantity = 0},
-            new Book{Id=5,Quantity = 0},
+            new Book{Id=1,Quantity = 1,price =100},
+            new Book{Id=2,Quantity = 0,price =100},
+            new Book{Id=3,Quantity = 0,price =100},
+            new Book{Id=4,Quantity = 0,price =100},
+            new Book{Id=5,Quantity = 0,price =100},
             };
 
             var target = new TDDHW2();
